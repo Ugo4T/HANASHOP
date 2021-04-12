@@ -1,0 +1,16 @@
+body {    
+    background-image: url(../image/BaggyPersonalJerboa-max-1mb.gif);
+   
+}
+
+p {
+    color: white;
+}
+body{
+     color: white;
+}
+#imagee {display: block; margin-left: auto; margin-right: auto;}
+h1{
+    color: white;
+      text-align: center;
+}
